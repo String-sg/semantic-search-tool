@@ -1,0 +1,5 @@
+numpy
+cohere
+python-dotenv
+fastapi
+deta
