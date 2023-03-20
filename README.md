@@ -1,4 +1,4 @@
-# semantic-search-chem-cher
+# Semantic Search (Chemistry, Repository of Teaching Resources)
 
 Developed by: Chan Kuang Wen (Raffles Institution)
 Documentation by: Kahhow
